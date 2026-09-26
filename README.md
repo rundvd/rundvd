@@ -6,4 +6,4 @@ Experience with independent research, data-driven problem-solving, STEM instruct
 
 Seeking internships and undergraduate research opportunities across mechanical engineering.
 
-[LinkedIn](https://www.linkedin.com/in/davidrundus/) · [ORCID](https://orcid.org/0009-0003-4382-1896)
+[LinkedIn](https://www.linkedin.com/in/davidrundus/)

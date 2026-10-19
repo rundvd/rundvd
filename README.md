@@ -1,15 +1,22 @@
 # David Rundus
 
-Mechanical engineering student at Baylor University (BSME, computational mechanics emphasis) in the Baylor Interdisciplinary Core. Interested in computational modeling, systems analysis, and research and development.
+Mechanical engineering student at Baylor University interested in computational modeling, systems analysis, and research and development. Seeking internships and undergraduate research opportunities across mechanical engineering.
 
-Experience with independent research, data-driven problem-solving, STEM instruction, and team leadership.
+## Education
 
-Seeking internships and undergraduate research opportunities across mechanical engineering.
+**Baylor University**, Waco, TX  
+B.S. Mechanical Engineering, computational mechanics emphasis (2026 to present)  
+Baylor Interdisciplinary Core
 
-## Current work
+## Engineering teams
 
-- **Astro at Baylor, Flight Dynamics subteam:** simulation and flight analysis for Indy & Belle, a two-stage rocket targeting 30,000 ft for IREC.
+- **Aero at Baylor, SAE Aero Design (Aerodynamics subteam):** drag prediction and design and analysis of the aircraft's control surfaces.
+- **Astro at Baylor (Flight Dynamics subteam):** flight simulation and analysis for a two-stage IREC rocket targeting 30,000 ft.
 - Member of AIAA at Baylor and Engineers with a Mission.
+
+## Experience
+
+- **DemiDec, Writer (part-time):** writes and revises Academic Decathlon study materials, including review game templates and flashcard sets, working through editor feedback cycles.
 
 ## Open-source contributions
 
@@ -19,4 +26,4 @@ Seeking internships and undergraduate research opportunities across mechanical e
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/davidrundus/)
+[LinkedIn](https://www.linkedin.com/in/davidrundus/) · [ORCID](https://orcid.org/0009-0003-4382-1896)

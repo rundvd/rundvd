@@ -12,7 +12,7 @@ Baylor Interdisciplinary Core
 
 - **Aero at Baylor, SAE Aero Design (Aerodynamics subteam):** drag prediction and design and analysis of the aircraft's control surfaces.
 - **Astro at Baylor (Flight Dynamics subteam):** flight simulation and analysis for a two-stage IREC rocket targeting 30,000 ft.
-- Member of AIAA at Baylor and Engineers with a Mission.
+- Member of AIAA, ASME, IEEE, and Engineers with a Mission at Baylor.
 
 ## Experience
 

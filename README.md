@@ -1,29 +1,28 @@
 # David Rundus
 
-Mechanical engineering student in the Honors Program at Baylor University, interested in computational modeling, systems analysis, and research and development. Seeking internships and undergraduate research opportunities across mechanical engineering.
+Mechanical engineering student in the Honors Program at Baylor University, interested in computational modeling, systems analysis, and optimization. Seeking internships and undergraduate research opportunities across mechanical engineering.
 
 ## Education
 
 **Baylor University**, Waco, TX  
-B.S. Mechanical Engineering, computational mechanics emphasis (2026 to 2030)  
+B.S. Mechanical Engineering (expected May 2030)  
 Honors Program · Baylor Interdisciplinary Core  
-Coursework: Calculus II, General Physics I (Honors), Introduction to Engineering
+Coursework: Calculus II, Physics I (Honors), Introduction to Engineering
 
-## Engineering teams and organizations
+**Honors:** National Merit Commended Student · AP Scholar with Distinction · Summa Cum Laude
+
+## Engineering teams and memberships
 
 - **Astro at Baylor, High-Powered Rocketry (Flight Dynamics subteam):** flight simulation and analysis for a two-stage IREC rocket targeting 30,000 ft.
 - **Aero at Baylor, SAE Aero Design (Aerodynamics subteam):** drag prediction and design and analysis of the aircraft's control surfaces.
-- Member of ASME, AIAA, IEEE, Engineers with a Mission, and Bear AI.
-
-## Experience
-
-- **DemiDec Resources, Writer (part-time, May 2026 to present):** authors flashcards, interactive review games, and assessment questions for Academic Decathlon students, refining materials through editorial review.
+- **Professional societies:** AIAA, ASME, IEEE
+- **Baylor organizations:** Engineers with a Mission, Bear AI
 
 ## Projects
 
-- **Computational Number Theory Paper (2026):** exploratory computational study of finite-range prime-candidate ranking, testing bounded-sieve arithmetic, Ulam-derived geometry, and binary quadratic-form features; findings written up in a 17-page paper.
-- **Urban Heat Island Mitigation Literature Review (2025):** 35-page review comparing green infrastructure and high-albedo surfaces on thermal performance, cost, implementation, and public health.
-- **Optimized Truck Audio System (2024):** measured a vehicle's audio response with a calibrated microphone and frequency sweeps, processed the data in Python, and implemented frequency-specific EQ against a custom target curve.
+- **Finite-Range Prime Ranking (2026):** directed an exploratory computational study of prime-candidate ranking using bounded-sieve arithmetic, Ulam-derived geometry, and binary quadratic form features. Compared logistic and family-based ranking models across two rolling test windows on integers up to 120,000; results written up in a 17-page manuscript.
+- **Urban Heat Island Mitigation (2025):** 35-page literature review synthesizing 17 references on green infrastructure and high-albedo surfaces, comparing thermal performance, cost, energy demand, maintenance, public health, and equity.
+- **Acoustic Measurement and Equalization (2024):** characterized a vehicle audio system with a calibrated microphone and repeated frequency sweeps, noise-corrected the response in Python, and implemented frequency-specific AutoEQ gain and Q settings against a custom target curve.
 
 ## Open-source contributions
 
@@ -31,19 +30,22 @@ Coursework: Calculus II, General Physics I (Honors), Introduction to Engineering
 - [RocketPy #1199](https://github.com/RocketPy-Team/RocketPy/pull/1199): corrects factors in the units conversion table
 - [RocketPy #1201](https://github.com/RocketPy-Team/RocketPy/pull/1201): fixes the fin flutter equation, which overestimated flutter velocity by a factor of √2 ([#1200](https://github.com/RocketPy-Team/RocketPy/issues/1200))
 
-## Leadership
+## Experience
 
-- **Academic Decathlon, Co-Captain and Mentor (2022 to 2026):** co-led a 40+ member team that placed 3rd in Arizona and reached the school's first Nationals; earned 25+ individual medals, including 2nd nationally in Science.
-- **Cloud Computing & AI Club, Activity Coordinator (2025 to 2026):** ran meetings for 40+ members on AI tools and research workflows; coordinated a semiconductor field trip to Microchip Technology.
+- **DemiDec, Writer (contract, May 2026 to present):** authors flashcards, review games, quizzes, and assessment questions for Academic Decathlon across science, art, social science, and music, refined through editorial review.
 
-## Certifications
+## Leadership and mentoring
 
-- Information Technology Specialist: Java (Certiport, 2026)
-- MATLAB Onramp (MathWorks, 2025)
+- **Academic Decathlon, Co-Captain and Mentor (2022 to 2026):** co-led a 40+ member team that placed 3rd in Arizona and reached the school's first national competition; earned 25+ medals, including 2nd nationally in Science (Electricity & Magnetism).
+- **F=ma Club, Meeting Coordinator (2026):** taught algebra-based physics weekly to 25+ students preparing for the U.S. Physics Olympiad qualifier.
+- **Cloud Computing & AI Club, Activity Coordinator (2025 to 2026):** taught AI tools and research workflows to 40+ members; coordinated a semiconductor field trip to Microchip Technology.
+- **Academic Pentathlon, Team Mentor (2024 to 2025):** mentored 50+ middle-school students; coached teams to 2nd and 3rd in Arizona.
 
-## Skills
+## Certifications and skills
 
-Python · Java · MATLAB · OpenRocket · RocketPy · Computational modeling · Technical research
+- Certiport Information Technology Specialist: Java · Arizona Skills Standards Certificate: Software & App Design · MATLAB Onramp
+- **Programming:** Java; foundational Python, MATLAB, and VPython
+- **Engineering tools:** OpenRocket, RocketPy
 
 ## Links
 

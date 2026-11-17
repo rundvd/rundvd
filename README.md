@@ -11,7 +11,7 @@ Honors Program · Baylor Interdisciplinary Core
 Coursework: Calculus II, Physics I (Honors), Introduction to Engineering
 
 **Arizona College Preparatory High School**, Chandler, AZ: diploma, May 2026  
-GPA 3.98 unweighted, 4.84 weighted · SAT 1550 · National Merit Commended Student · AP Scholar with Distinction · Summa Cum Laude
+3.98 unweighted / 4.84 weighted GPA · 1550 SAT · National Merit Commended Student · AP Scholar with Distinction · Summa Cum Laude
 
 ## Open-source contributions
 
@@ -37,7 +37,7 @@ GPA 3.98 unweighted, 4.84 weighted · SAT 1550 · National Merit Commended Stude
 
 ## Leadership and mentoring
 
-- **Academic Decathlon, Co-Captain** (2022 to 2026): co-led a 40+ member team, more than 70% of them new, to 3rd in Arizona and the school's first Nationals; created team study guides of 90 to 320 pages; earned 25+ individual medals, including 2nd nationally in Science.
+- **Academic Decathlon, Co-Captain** (2022 to 2026): co-led a 40+ member team, more than 70% of them new, to 3rd in Arizona and the school's first Nationals; created team study guides of 90 to 320 pages; earned 25+ individual medals, including 2nd nationally in Science (Electricity and Magnetism).
 - **Cloud Computing & AI Club, Activity Coordinator** (2025 to 2026): taught AI tools and research workflows to 40+ members; coordinated a field trip to Microchip Technology and hosted a former federal AI policy advisor.
 - **F=ma Club, Meeting Coordinator** (2026): taught algebra-based physics weekly to 25+ members preparing for the F=ma exam, the U.S. Physics Olympiad qualifier.
 - **Academic Pentathlon, Team Mentor** (2024 to 2025): mentored 50+ middle-school students weekly and coached teams to 2nd and 3rd in Arizona.

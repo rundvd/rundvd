@@ -15,13 +15,13 @@ Coursework: Calculus II, Physics I (Honors), Introduction to Engineering
 
 ## Open-source contributions
 
-- **[OpenRocket #3346](https://github.com/openrocket/openrocket/pull/3346)** (merged): fixes a crash when printing a design after its freeform fin set is deleted ([#3274](https://github.com/openrocket/openrocket/issues/3274)).
-- **[RocketPy #1201](https://github.com/RocketPy-Team/RocketPy/pull/1201)** (in review): removes an extra factor of 2 from the fin flutter equation, which overstated flutter velocity by √2 for every fin; tested against Bennett's reference calculator ([#1200](https://github.com/RocketPy-Team/RocketPy/issues/1200)).
-- **[RocketPy #1199](https://github.com/RocketPy-Team/RocketPy/pull/1199)** (in review): corrects six inverted or wrong factors in the units conversion table, which made flight logs recorded in ft/s² or degrees import 10.8× and 3283× too large; adds tests checking every unit against its exact SI definition. Also carries a maintainer's review fixes, so conversions no longer modify their inputs.
+- **[OpenRocket #3346](https://github.com/openrocket/openrocket/pull/3346)** (merged): fixed a crash when printing a design after its freeform fin set was deleted ([#3274](https://github.com/openrocket/openrocket/issues/3274)).
+- **[RocketPy #1201](https://github.com/RocketPy-Team/RocketPy/pull/1201)** (in review): removed an extra factor of 2 from the fin flutter equation, which overstated flutter velocity by √2 for every fin; tested the fix against Bennett's reference calculator ([#1200](https://github.com/RocketPy-Team/RocketPy/issues/1200)).
+- **[RocketPy #1199](https://github.com/RocketPy-Team/RocketPy/pull/1199)** (in review): corrected six inverted or wrong factors in the units conversion table, which made flight logs recorded in ft/s² or degrees import 10.8× and 3283× too large; added tests checking every unit against its exact SI definition, and merged in a maintainer's review fixes so conversions no longer modify their inputs.
 
 ## Engineering teams
 
-- **Aero at Baylor, SAE Aero Design: Aerodynamics Team Lead** (2026 to present): leads aerodynamic analysis for the team's Micro Class aircraft, covering drag prediction and control-surface design and analysis in MATLAB.
+- **Aero at Baylor, SAE Aero Design: Aerodynamics Team Lead** (2026 to present): lead aerodynamic analysis for the team's Micro Class aircraft, covering drag prediction and control-surface design and analysis in MATLAB.
 - **Astro at Baylor, High Powered Rocketry: Flight Dynamics** (2026 to present): researched alternatives to air brakes for apogee control and proposed designs; analyzed the two-stage Indy & Belle 2 IREC design for fin flutter margins, pitch damping, recovery descent rates, and wind-induced tilt at sustainer ignition; built parachute lookup tables for two rockets. Now modeling Belle 3, a single-stage rocket for the March 2027 Lone Star Cup, in OpenRocket and MATLAB to find why the original Belle flew to about 12,000 ft against a 10,000 ft prediction and to propose design changes.
 - **Memberships:** AIAA · ASME · IEEE · Engineers with a Mission · Bear AI
 
@@ -33,7 +33,7 @@ Coursework: Calculus II, Physics I (Honors), Introduction to Engineering
 
 ## Experience
 
-- **DemiDec Resources, Writer** (part-time, May 2026 to present): writes flashcards, interactive review games, and assessment questions for Academic Decathlon students, refining each set through editorial review.
+- **DemiDec Resources, Writer** (part-time, May 2026 to present): write flashcards, interactive review games, and assessment questions for Academic Decathlon students, refining each set through editorial review.
 
 ## Leadership and mentoring
 
